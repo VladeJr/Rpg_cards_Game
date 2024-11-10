@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {
+      "id": "0",
+      "name": "Chris Redfiled",
+      "race": "Humano",
+      "profession": "Agente Secreto",
+      "groupIds": []
+    },
+    {
+      "id": "0",
+      "name": "Diana Voltera",
+      "race": "Élfica",
+      "profession": "Caçadora",
+      "groupIds": []
+    },
+    {
+      "id": "0",
+      "name": "Leon S. Kennedy",
+      "race": "Humano",
+      "profession": "Super Soldier",
+      "groupIds": []
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "BSAA",
+      "description": "Bioterrorism Security Assessment Alliance",
+      "messages": [
+        {
+          "content": "Mensagem",
+          "sender": "Usuário",
+          "timestamp": "2024-11-09T22:11:53.133"
+        }
+      ],
+      "events": [
+        {
+          "title": "Eventos112",
+          "description": "Eventos 3554",
+          "date": "2024-11-18T00:00:00.000"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lobo de Caça",
+      "description": "Hunting Wolf Squad"
+    }
+  ]
+}
